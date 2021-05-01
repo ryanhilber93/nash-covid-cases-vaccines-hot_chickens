@@ -1,4 +1,4 @@
-Zipcode,Total:,High school graduate (includes equivalency),Bachelors degree,"Some college, 1 or more years, no degree",Associates degree,Masters degree,"Some college, less than 1 year",No schooling completed,"12th grade, no diploma",Professional school degree,5th and 6th grade,7th and 8th grade,10th grade,9th grade,11th grade,Nursery to 4th grade,Doctorate degree
+Zip,Total:,High school graduate (includes equivalency),Bachelors degree,"Some college (>=1 yr, no degree)",Associates degree,Masters degree,Some college (<1 yr),No schooling completed,12th grade (no diploma),Professional school degree,5th/6th grade,7th/8th grade,10th grade,9th grade,11th grade,Nursery to 4th grade,Doctorate degree
 37013,62355,15971,14323,9466,5652,4860,3147,1822,1386,1055,951,705,894,821,638,355,309
 37027,36625,2744,16139,2887,1693,7717,1215,112,129,2137,37,139,105,72,47,11,1441
 37069,13385,1048,5901,1419,615,2514,504,23,89,750,10,39,9,0,24,0,440
